@@ -9,15 +9,20 @@
 
 ## 2.Guia - Codigo
 
-- Estructura Login
-1) Creamos la cabecera utilizando un Ion-Header, en la cual vamos a colocar el titulo que llevara nuestra App
+- **Estructura Login** _ *login.html*
+- Creamos la cabecera utilizando un Ion-Header, en la cual vamos a colocar el titulo que llevara nuestra App
 
 <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/209389429-1a85bc8d-8816-469d-bbed-63cce04e931e.png" width="400"/></p>
 
-2) Implementamos un Contenedor la cual va abarcar la imagen de la App mediante un enlace, los *label* e *input* del login,
-dentro
+- Implementamos un Contenedor la cual va abarcar la imagen de la App mediante un enlace, los *label* e *input* del login.
 
 <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/209391950-7412ac6b-a476-41e6-a0c4-5ae4472fba8d.png" width="500"/></p>
+
+- se creara metodos  en diferentes casos del login, en este caso van a ser declarados dentro de un *form* la cual llamara login y sera declado en *login.ts* 
+
+<p align="center"><img src ="https://user-images.githubusercontent.com/74762981/209399290-60e87d04-28a4-496e-b5da-5e96b43f698a.png" width="400"/></p>
+
+<p align="center"><img src ="https://user-images.githubusercontent.com/74762981/209399342-8c49f5c5-8456-4d5a-a242-7e539a42a253.png" width="400"/></p>
 
 
 
