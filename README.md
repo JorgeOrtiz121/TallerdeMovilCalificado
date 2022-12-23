@@ -24,5 +24,10 @@
 
 <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/209399342-8c49f5c5-8456-4d5a-a242-7e539a42a253.png" width="400"/></p>
 
+- Se crea *ion-badge* para colocar mensajes de advertencia cuando los campos estan vacios.
+
+![image](https://user-images.githubusercontent.com/74762981/209399944-adb23bf4-7456-443a-969c-ad7c0d778928.png)
+
+![image](https://user-images.githubusercontent.com/74762981/209400081-a94e191d-bb1e-47cd-aa61-09444c1b3494.png)
 
 
