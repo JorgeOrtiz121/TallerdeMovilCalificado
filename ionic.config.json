@@ -1,0 +1,8 @@
+{
+  "name": "PruebaChat",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
