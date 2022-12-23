@@ -31,3 +31,12 @@
 ![image](https://user-images.githubusercontent.com/74762981/209400081-a94e191d-bb1e-47cd-aa61-09444c1b3494.png)
 
 
+- Se crearn los botones de inicio y registrar y se implementaran metodos para pasar valores.
+
+![image](https://user-images.githubusercontent.com/74762981/209400535-51d84a8c-cae1-4198-a5b7-eb27c2d9a0d8.png)
+
+
+![image](https://user-images.githubusercontent.com/74762981/209400589-07fe295d-6cd6-45fc-8cf1-5168218d55ff.png)
+
+
+-
