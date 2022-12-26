@@ -39,4 +39,13 @@
 ![image](https://user-images.githubusercontent.com/74762981/209400589-07fe295d-6cd6-45fc-8cf1-5168218d55ff.png)
 
 
--
+- Se configura los componentes para validar los patrones ,en el cuadro de correo y Contraseña
+
+
+
+![image](https://user-images.githubusercontent.com/74762981/209579354-0a301887-444a-4218-bb9b-9248c11242c9.png)
+
+- Validamos los mensajes que nos va a motrar en los *ion-badge* como alertas.
+
+![image](https://user-images.githubusercontent.com/74762981/209579453-88057a6a-3585-4d5c-a9b4-a498aa8297be.png)
+
